@@ -96,7 +96,7 @@ A React-based web application for managing personal expenses.
 ## Setup and Running the Application
 
 1. Clone the repository:
-git clone https://github.com/yourusername/personal-expense-tracker.git
+git clone https://github.com/PravallikaLearning/personal-expense-tracker
 
 2. Navigate to the project directory:
 
